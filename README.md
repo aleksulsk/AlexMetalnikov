@@ -1,3 +1,2 @@
-AlexMetalnikov
-Мой репозиторий, с моими личными проектами и рабочими файлами
-img src = "https://github.com/aleksulsk/AlexMetalnikov/blob/main/prikolnye-animatsii-343.gif" alt = "The Unlimited"
+<a href="https://chen08209.github.io/flclash-fdroid-repo/repo?fingerprint=FINGERPRINT"><img alt="Get it on F-Droid" src="snapshots/get-it-on-fdroid.svg" width="200px"/></a> <a href="https://github.com/chen08209/FlClash/releases"><img alt="Get it on GitHub" src="snapshots/get-it-on-github.svg" width="200px"/></a>
+<a href="https://chen08209.github.io/FlClash-fdroid-repo/repo?fingerprint=789D6D32668712EF7672F9E58DEEB15FBD6DCEEC5AE7A4371EA72F2AAE8A12FD"><img alt="Get it on F-Droid" src="snapshots/get-it-on-fdroid.svg" width="200px"/></a> <a href="https://github.com/chen08209/FlClash/releases"><img alt="Get it on GitHub" src="snapshots/get-it-on-github.svg" width="200px"/></a>
